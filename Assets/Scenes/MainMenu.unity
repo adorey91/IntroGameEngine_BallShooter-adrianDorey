@@ -41555,7 +41555,7 @@ PrefabInstance:
     - target: {fileID: 622763330879593280, guid: 80dc5fed223346e4fa53a8715357b330,
         type: 3}
       propertyPath: ShotsToComplete
-      value: 99
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4303680812698288562, guid: 80dc5fed223346e4fa53a8715357b330,
         type: 3}
@@ -53919,6 +53919,11 @@ PrefabInstance:
       propertyPath: m_CollisionDetection
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 6370403931691569624, guid: 8ccaf30cd611258429408fd3ae459d1b,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7e8a148b8e22b114089cdcb44eddd3ef, type: 2}
     - target: {fileID: 6370403931765997152, guid: 8ccaf30cd611258429408fd3ae459d1b,
         type: 3}
       propertyPath: m_Mesh
