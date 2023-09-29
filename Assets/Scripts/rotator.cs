@@ -3,8 +3,6 @@ using System.Collections;
 
 public class Rotator : MonoBehaviour
 {
-
-    // Before rendering each frame..
     void Update()
     {
         // Rotate the game object that this script is attached to by 15 in the X axis,
